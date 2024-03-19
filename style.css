@@ -43,11 +43,9 @@
     }
     
     .folders {
-      position: relative;
-      top: 30%;
-      width: 100%;
-      text-align: center;
-      font-size: 18px;
+    padding: 15%;
+    width: auto;
+    font-size: 18p
     }
     
     .footer {
