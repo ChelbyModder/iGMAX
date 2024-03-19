@@ -1,7 +1,7 @@
 .title {
     background-image: url("images/wallpaper/title.jpg");
     background-repeat: no-repeat;
-    background-size: 35%;
+    background-size: contain;
     height: 17%;
     width: 40%;
     position: absolute;
@@ -10,7 +10,7 @@
     .container {
     background-repeat: no-repeat; 
     background-image: url("images/wallpaper/window.jpg");
-    background-size: 100%;
+    background-size: contain;
     height: 78%;
     width: 50%;
     margin-top: 0.5%;
@@ -22,7 +22,7 @@
     
     body {
     background-image: url("images/wallpaper/wallpaper.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     }
     
@@ -58,7 +58,7 @@
       width: 100%;
       background-image: url("images/wallpaper/taskbar.jpg");
       background-repeat: no-repeat; 
-      background-size: 100%;
+      background-size: cover;
       text-align: left;
     }
     
